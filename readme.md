@@ -13,9 +13,11 @@
 * Land basemap (Source: [Natural Earth](https://www.naturalearthdata.com/http//www.naturalearthdata.com/download/110m/physical/ne_110m_land.zip))
 * Ocean basemap (Source: [Natural Earth](https://www.naturalearthdata.com/http//www.naturalearthdata.com/download/110m/physical/ne_110m_ocean.zip))
 
+## Map
+<p align="center">
+  <img src="/images/UNESCO_sites_overview.png" width="800" alt="Sublime's custom image"/>
+</p>
 
-<img src="/images/UNESCO_sites_overview.png" width="800px">
-<div style="text-align:center"><img src="/images/UNESCO_sites_overview.png" width="800px"></div>
 
 ## Context
 Die in der norddeutschen Tiefebene gelegene Dammer Oberkreidemulde besteht aus Ablagerungen der oberen Kreidezeit, welche von tertiären und pleistozänen Sedimenten toniger Natur überdeckt sind. Das Gebiet besteht aus zwei Teilen: der flachen, muldenartigen Landschaft zwischen den Orten Bersenbrück, Bramsche, Damme und Stemwede; sowie dem östlich anstehende Stemweder Berg. Ersteres Gebiet ist noch heute von den tertiären und pleistozänen Ablagerungen geprägt. Der kleine Gebirgsstock des Stemweder Berges bildet die östliche Ausstreichung der kreidezeitlichen Gesteinsschichten, welche durch Reliefumkehr freigelegt wurden. Der Stemweder Berg ist der einzige nicht-eiszeitliche Gebirgsstock nördlich der Mittelgebirgsschwelle. Untenstehend finden Sie einige Illustrationen des besprochenen Gebietes:
