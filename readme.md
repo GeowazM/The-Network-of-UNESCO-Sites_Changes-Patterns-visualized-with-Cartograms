@@ -1,14 +1,17 @@
-# Abgabe 4 - Arbeiten mit Rasterdaten
+# Excersice - Arbeiten mit Rasterdaten
 
-## Generelle Hinweise
-* Team- oder Gruppenarbeit ist unzulässig und führt zum Nichtbestehen des Übungsblattes.
-*	Die Abgabe erfolgt über die Lernplattform Moodle.
-*	Es können maximal 100 Punkte erzielt werden.
-*	Lest alle Hinweise, bevor ihr mit der Bearbeitung der Aufgaben beginnt.
-* Zu spät abgebene Aufgaben werden mit 0 Punkten bewertet.
+## Task
+* Install plugins in QGIS
+*	Use the World Heritage in Danger data set
+*	Create a cartogram
+*	Add a WMTS layer
 
-## Zur Verfügung stehende Daten:
+## Data:
 * GeoTIFF „tandem_x_dem“ (Quelle: [Deutsches Zentrum für Luft- und Raumfahrt (DLR)](https://download.geoservice.dlr.de/TDM90/))
+* UNESCO List of World Heritage in Danger (Source: https://whc.unesco.org/en/danger/, Copyright © 1992 - 2021 UNESCO/World Heritage Centre. All rights reserved)
+* 
+
+
 
 Ladet euch [die Daten herunter](abgabe_04_data.zip) und speichert sie auf eurem PC. Legt einen lokalen Ordner (nicht auf einem Netzlaufwerk wie zum Beispiel "Q://Abgabe") an und speichert dort die obigen Daten. (.zip Ordner müssen vorher entpackt werden.)
 
