@@ -14,6 +14,7 @@
 * Ocean basemap (Source: [Natural Earth](https://www.naturalearthdata.com/http//www.naturalearthdata.com/download/110m/physical/ne_110m_ocean.zip))
 
 
+<img src="/images/UNESCO_sites_overview.png" width="1200px">
 
 
 ## Abzugeben sind:
