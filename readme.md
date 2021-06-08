@@ -1,8 +1,8 @@
 # Excersice
 
 ## Task
-* Install plugins in QGIS
-*	Use the *World Heritage in Danger* data set
+* Plot the *World Heritage in Danger* data set
+*	Install plugins in QGIS
 *	Create a cartogram
 *	Add a WMTS layer
 
