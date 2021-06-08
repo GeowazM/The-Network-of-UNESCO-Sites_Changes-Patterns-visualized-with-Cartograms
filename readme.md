@@ -1,15 +1,16 @@
-# Excersice - Arbeiten mit Rasterdaten
+# Excersice
 
 ## Task
 * Install plugins in QGIS
-*	Use the World Heritage in Danger data set
+*	Use the *World Heritage in Danger* data set
 *	Create a cartogram
 *	Add a WMTS layer
 
 ## Data:
 * GeoTIFF „tandem_x_dem“ (Quelle: [Deutsches Zentrum für Luft- und Raumfahrt (DLR)](https://download.geoservice.dlr.de/TDM90/))
-* UNESCO List of World Heritage in Danger (Source: https://whc.unesco.org/en/danger/, Copyright © 1992 - 2021 UNESCO/World Heritage Centre. All rights reserved)
-* 
+* UNESCO List of *World Heritage in Danger* (Source: [UNESCO] (https://whc.unesco.org/en/danger/), Copyright © 1992 - 2021 UNESCO/World Heritage Centre. All rights reserved)
+* UN subregions (Source:
+* Basemap (Source: [Natural Earth](https://www.naturalearthdata.com/http//www.naturalearthdata.com/download/110m/physical/ne_110m_ocean.zip))
 
 
 
