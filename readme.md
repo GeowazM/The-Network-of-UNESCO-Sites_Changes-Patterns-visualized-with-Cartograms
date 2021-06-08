@@ -15,7 +15,6 @@
 
 
 
-Ladet euch [die Daten herunter](abgabe_04_data.zip) und speichert sie auf eurem PC. Legt einen lokalen Ordner (nicht auf einem Netzlaufwerk wie zum Beispiel "Q://Abgabe") an und speichert dort die obigen Daten. (.zip Ordner müssen vorher entpackt werden.)
 
 ## Abzugeben sind:
 * Ein GeoTIFF “ausschnitt” (Aufgabe 1)
