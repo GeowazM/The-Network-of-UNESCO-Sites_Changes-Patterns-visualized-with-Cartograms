@@ -1,6 +1,6 @@
-# Excersice
+# The Network of UNESCO Sites - Changes and Patterns visualized with Cartograms
 
-## Task
+## Excersice
 * Plot the *World Heritage in Danger* data set
 *	Install plugins in QGIS
 *	Add a WMTS layer
