@@ -1,6 +1,6 @@
 # The Network of UNESCO Sites - Changes and Patterns visualized with Cartograms
 
-## Excersice
+## Tasks
 * Plot the *World Heritage in Danger* data set
 *	Install plugins in QGIS
 *	Add a WMTS layer
@@ -18,14 +18,14 @@
 Since its foundation in 1945, the United Nations Educational, Scientific and Cultural Organization (UNESCO) became one of the most famous international institutions worldwide. With its different programs, the UNESCO has transformed itself into an important brand for the protection of cultural and natural landmarks. Continuously, the list of UNESCO designated sites is growing. However, the last five decades have been characterized by global economic and political changes, which have also repeatedly made it necessary for UNESCO to adapt. The List of World Heritage in Danger shows impressively, that also centuries-old properties have to accommodate to ascertained and potential sources of danger. As the political and economic importance of UNESCO has increased, so has the media attention about the UNESCO and its decisions. It is a balancing act to make sensible decisions as a global institution that affect the lives of individuals in different regions around the world.
 The constantly increase of UNESCO designated sites can be shown very well on the basis of tables and graphs. However, the regional weighting and influence of certain policies can barely be displayed with tables and numbers, if at all. Maps can be helpful, making the spatial distribution over varying times visible. By using cartograms, warping a regular map based on a certain value, the different weighting of the individual regions can be shown even more clearly. This allows an interpretation of past developments and implementation of the individual policies of UNESCO.
 
-## Map
+### Map
 <p align="center">
   <img src="/images/UNESCO_sites_overview.png" width="800" alt="Sublime's custom image"/>
 </p>
-*Map of the global distribution of UNESCO Global Geoparks, Biosphere Reserves and World Heritage Sites within the UN subregions*
+Map of the global distribution of UNESCO Global Geoparks, Biosphere Reserves and World Heritage Sites within the UN subregions.
 
 
-## Aufgaben
+## Excersice
 
 ### Aufgabe 1 (15 Punkte)
 Extrahiert das Gebiet der Dammer Oberkreidemulde inklusive der umliegenden Höhenzüge (Gehn, Stemweder Berg, Dammer Berge, direkt südlich angrenzender Teil des Wiehengebirges) aus dem Gesamtdatensatz (TANDEM-X-Höhenraster). Erstellt dabei einen rechteckigen Ausschnitt. Stellt sicher, dass die Daten in einer geeigneten Projektion vorliegen (UTM 32N).
@@ -38,12 +38,6 @@ Berechnet die lokalen Geländekrümmungen (Curvature) für den in Aufgabe 1 extr
 
 Eine positive Profilkrümmung gibt eine konkave Krümmung an, was die Fließgeschwindigkeit von abfließendem Wasser erhöht. Bei der horizontalen Krümmung sind hingegen negative Werte von größerer Bedeutung für die Erosion, da dies Wasserflüsse bündelt und so die Fließgeschwindigkeit und den Bodenabtrag noch stärker beschleunigt.
 
-* Speichert eure Ergebnisse als GeoTIFF-Dateien.
-
-<img src="horizontale_kruemmung.png" height="100px">
-<img src="profilkruemmung.png" height="100px">
-
-*Horizontale Krümmung (links), Profilkrümmung (rechts)*
 
 ### Aufgabe 3 (15 Punkte)
 Berechnet die Geländeneigung (Slope) in Grad für das extrahierte Gebiet. Speichert diese ebenfalls in ein GeoTIFF.
