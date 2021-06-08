@@ -3,8 +3,9 @@
 ## Task
 * Plot the *World Heritage in Danger* data set
 *	Install plugins in QGIS
-*	Create a cartogram
 *	Add a WMTS layer
+*	Create a cartogram
+
 
 ## Data:
 * GeoTIFF „tandem_x_dem“ (Quelle: [Deutsches Zentrum für Luft- und Raumfahrt (DLR)](https://download.geoservice.dlr.de/TDM90/))
