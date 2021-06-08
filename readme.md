@@ -14,26 +14,10 @@
 * Ocean basemap (Source: [Natural Earth](https://www.naturalearthdata.com/http//www.naturalearthdata.com/download/110m/physical/ne_110m_ocean.zip))
 
 
-<img src="/images/UNESCO_sites_overview.png" width="1200px">
+<img src="/images/UNESCO_sites_overview.png" width="800px">
+<div style="text-align:center"><img src="/images/UNESCO_sites_overview.png" width="800px"></div>
 
-
-## Abzugeben sind:
-* Ein GeoTIFF “ausschnitt” (Aufgabe 1)
-* Ein GeoTIFF “planform_curvature” (Aufgabe 2)
-* Ein GeoTIFF “profile_curvature” (Aufgabe 2)
-*	Ein GeoTIFF “slope” (Aufgabe 3)
-*	Ein GeoTIFF “final_result” (Aufgabe 4)
-*	Führt diese Dateien in einen ZIP-Ordner zusammen. Ladet diesen final auf Moodle hoch.
-* Hinweis 1: Abgaben ohne Dokumentation (als PDF) werden mit 0 Punkten bewertet!
-
-Hinweise für die Dokumentation:
-* gebt alle wesentlichen Schritte kurz und knapp an
-* Stichpunkte genügen (bitte keine Romane! ;))
-* Bitte gebt auf jeden Fall den Namen der Tools an, welche ihr genutzt habt
-* falls ihr Parameter gewählt habt, nennt diese und liefert eine kurze Begründung, wenn der Parameterwert nicht eindeutig in der Aufgabenstellung gegeben war
-* für Abgabe 04 sollte eure Dokumentation (ohne Screenshots) ungefähr 1-2 A4 Seite lang sein
-
-## Kontext
+## Context
 Die in der norddeutschen Tiefebene gelegene Dammer Oberkreidemulde besteht aus Ablagerungen der oberen Kreidezeit, welche von tertiären und pleistozänen Sedimenten toniger Natur überdeckt sind. Das Gebiet besteht aus zwei Teilen: der flachen, muldenartigen Landschaft zwischen den Orten Bersenbrück, Bramsche, Damme und Stemwede; sowie dem östlich anstehende Stemweder Berg. Ersteres Gebiet ist noch heute von den tertiären und pleistozänen Ablagerungen geprägt. Der kleine Gebirgsstock des Stemweder Berges bildet die östliche Ausstreichung der kreidezeitlichen Gesteinsschichten, welche durch Reliefumkehr freigelegt wurden. Der Stemweder Berg ist der einzige nicht-eiszeitliche Gebirgsstock nördlich der Mittelgebirgsschwelle. Untenstehend finden Sie einige Illustrationen des besprochenen Gebietes:
 
 <img src="stemweder_berg.jpg" width="300px">
