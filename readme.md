@@ -17,25 +17,13 @@
 <p align="center">
   <img src="/images/UNESCO_sites_overview.png" width="800" alt="Sublime's custom image"/>
 </p>
-
+*Map of the global distribution of UNESCO Global Geoparks, Biosphere Reserves and World Heritage Sites within the UN subregions*
 
 ## Context
-Die in der norddeutschen Tiefebene gelegene Dammer Oberkreidemulde besteht aus Ablagerungen der oberen Kreidezeit, welche von tertiären und pleistozänen Sedimenten toniger Natur überdeckt sind. Das Gebiet besteht aus zwei Teilen: der flachen, muldenartigen Landschaft zwischen den Orten Bersenbrück, Bramsche, Damme und Stemwede; sowie dem östlich anstehende Stemweder Berg. Ersteres Gebiet ist noch heute von den tertiären und pleistozänen Ablagerungen geprägt. Der kleine Gebirgsstock des Stemweder Berges bildet die östliche Ausstreichung der kreidezeitlichen Gesteinsschichten, welche durch Reliefumkehr freigelegt wurden. Der Stemweder Berg ist der einzige nicht-eiszeitliche Gebirgsstock nördlich der Mittelgebirgsschwelle. Untenstehend finden Sie einige Illustrationen des besprochenen Gebietes:
+Since its foundation in 1945, the United Nations Educational, Scientific and Cultural Organization (UNESCO) became one of the most famous international institutions worldwide. With its different programs, the UNESCO has transformed itself into an important brand for the protection of cultural and natural landmarks. Continuously, the list of UNESCO designated sites is growing. However, the last five decades have been characterized by global economic and political changes, which have also repeatedly made it necessary for UNESCO to adapt. The List of World Heritage in Danger shows impressively, that also centuries-old properties have to accommodate to ascertained and potential sources of danger. As the political and economic importance of UNESCO has increased, so has the media attention about the UNESCO and its decisions. It is a balancing act to make sensible decisions as a global institution that affect the lives of individuals in different regions around the world.
+The constantly increase of UNESCO designated sites can be shown very well on the basis of tables and graphs. However, the regional weighting and influence of certain policies can barely be displayed with tables and numbers, if at all. Maps can be helpful, making the spatial distribution over varying times visible. By using cartograms, warping a regular map based on a certain value, the different weighting of the individual regions can be shown even more clearly. This allows an interpretation of past developments and implementation of the individual policies of UNESCO.
 
-<img src="stemweder_berg.jpg" width="300px">
-<img src="oppenweher_moor.jpg" width="300px">
 
-*Stemweder Berg (links), Oppenweher Moor in der Dammer Oberkreidemulde (rechts)*
-
-<img src="stemweder_berg_querschnitt.png" width="600px">
-
-*Querschnitt des Stemweder Berges (im Querschnitt: links = Osten, rechts = Westen).*
-
-Die Aufgabe dieses Übungsblattes besteht in der Ermittlung von Flächen, die in besonderem Maße von Erosion bedroht sind. Norddeutschland und damit auch das betrachtete Gebiet ist in besonderem Maße von Nitratbelastung in Gewässern betroffen. Erosion trägt hier zusätzlich bei, indem landwirtschaftlich genutzte Flächen in Hanglage abgetragen und Nährstoffe in Gewässer eingetragen werden. Besonders betroffen ist der Dümmer See, welcher am Nordrand der Dammer Oberkreidemulde liegt. Folgende Abbildung basiert auf einem SRTM-Höhenraster und bietet Ihnen einen Überblick:
-
-<img src="dammer_oberkreidemulde_srtm.png" width="600px">
-
-*Überblick über die geographische Einbettung der Dammer Oberkreidemulde.*
 
 ## Aufgaben
 
