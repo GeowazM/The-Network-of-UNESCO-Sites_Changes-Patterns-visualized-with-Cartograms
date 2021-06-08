@@ -8,9 +8,9 @@
 
 ## Data:
 * GeoTIFF „tandem_x_dem“ (Quelle: [Deutsches Zentrum für Luft- und Raumfahrt (DLR)](https://download.geoservice.dlr.de/TDM90/))
-* UNESCO List of *World Heritage in Danger* (Source: [UNESCO] (https://whc.unesco.org/en/danger/), Copyright © 1992 - 2021 UNESCO/World Heritage Centre. All rights reserved)
+* UNESCO List of *World Heritage in Danger* (Source: [UNESCO](https://whc.unesco.org/en/danger/), Copyright©1992-2021 UNESCO/World Heritage Centre. All rights reserved)
 * UN subregions (Source:
-* Basemap (Source: [Natural Earth](https://www.naturalearthdata.com/http//www.naturalearthdata.com/download/110m/physical/ne_110m_ocean.zip))
+* Ocean basemap (Source: [Natural Earth](https://www.naturalearthdata.com/http//www.naturalearthdata.com/download/110m/physical/ne_110m_ocean.zip))
 
 
 
