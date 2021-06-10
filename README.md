@@ -14,6 +14,9 @@
 * Land basemap (Source: [Natural Earth](https://www.naturalearthdata.com/http//www.naturalearthdata.com/download/110m/physical/ne_110m_land.zip))
 * Ocean basemap (Source: [Natural Earth](https://www.naturalearthdata.com/http//www.naturalearthdata.com/download/110m/physical/ne_110m_ocean.zip))
 
+<br/>
+<br/>
+<br/>
 
 ## Context
 Since its foundation in 1945, the United Nations Educational, Scientific and Cultural Organization (UNESCO) became one of the most famous international institutions worldwide. With its different programs, the UNESCO has transformed itself into an important brand for the protection of cultural and natural landmarks. Continuously, the list of UNESCO designated sites is growing. However, the last five decades have been characterized by global economic and political changes, which have also repeatedly made it necessary for UNESCO to adapt. The List of World Heritage in Danger shows impressively, that also centuries-old properties have to accommodate to ascertained and potential sources of danger. As the political and economic importance of UNESCO has increased, so has the media attention about the UNESCO and its decisions. It is a balancing act to make sensible decisions as a global institution that affect the lives of individuals in different regions around the world.
@@ -25,6 +28,9 @@ The constantly increase of UNESCO designated sites can be shown very well on the
 </p>
 Map of the global distribution of UNESCO Global Geoparks, Biosphere Reserves and World Heritage Sites within the UN subregions.
 
+<br/>
+<br/>
+<br/>
 
 ## Excersice
 
