@@ -1,4 +1,5 @@
-# The Network of UNESCO Sites - Changes and Patterns visualized with Cartograms
+# The Network of UNESCO Sites -
+# Changes and Patterns visualized with Cartograms
 
 ## Tasks
 * Plot the "*World Heritage in Danger*" data set
