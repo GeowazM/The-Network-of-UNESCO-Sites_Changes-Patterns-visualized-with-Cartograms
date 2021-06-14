@@ -1,27 +1,27 @@
 # The Network of UNESCO Sites -
 # Changes and Patterns visualized with Cartograms
 
-## Tasks
-* Plot the "*World Heritage in Danger*" data set
-*	Install plugins in QGIS
-*	Add a WMTS layer
-*	Create a cartogram
+## What you will learn
+* How to plot data in QGIS
+*	How to install a plugin
+*	How to add further data
+*	How a GIS supports a analysis
+*	How to create a cartogram
 
 
-## Data:
+## What you need
 * UNESCO List of "*World Heritage in Danger*" (Source: [UNESCO](https://whc.unesco.org/en/danger/), Copyright©1992-2021 UNESCO/World Heritage Centre. All rights reserved)
 * UN subregions scheme (Data source: [Countries](https://www.naturalearthdata.com/http//www.naturalearthdata.com/download/110m/cultural/ne_110m_admin_0_countries.zip), Scheme source: [UN subregion M49](https://unstats.un.org/unsd/methodology/m49/))
 * Oceanic basemap (Source: [Natural Earth](https://www.naturalearthdata.com/))
 
 [**Download data**](https://github.com/GeowazM/The-Network-of-UNESCO-Sites-Changes-and-Patterns-visualized-with-Cartograms/blob/main/data/Download_data_Network-of-UNESCO-Sites_HIS-GIS.zip)
 
-<br/>
-<br/>
 
-## Table of content:
-1. [Download data](https://github.com/GeowazM/The-Network-of-UNESCO-Sites-Changes-and-Patterns-visualized-with-Cartograms/blob/main/data/Download_data_Network-of-UNESCO-Sites_HIS-GIS.zip), unzip & open in QGIS
-2. Install plugins
-3. Explore the World Heritage Site [Abu Mena](http://whc.unesco.org/en/list/90/)
+
+## What to do
+1. Download the provided data & open in QGIS
+2. Install a useful plugin
+3. Explore a World Heritage Site in Danger
 4. Analyse the distribution of World Heritage in Danger worldwide
 
 <br/>
