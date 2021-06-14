@@ -17,7 +17,6 @@
 [**Download data**](https://github.com/GeowazM/The-Network-of-UNESCO-Sites-Changes-and-Patterns-visualized-with-Cartograms/blob/main/data/Download_data_Network-of-UNESCO-Sites_HIS-GIS.zip)
 
 
-
 ## What to do
 1. Download the provided data & open in QGIS
 2. Install a useful plugin
@@ -39,7 +38,7 @@ Figure 1: Map of the global distribution of UNESCO Global Geoparks, Biosphere Re
 <br/>
 <br/>
 
-## Excersice
+## Hands-on
 
 ### Excersice 1
 [Download](https://github.com/GeowazM/The-Network-of-UNESCO-Sites-Changes-and-Patterns-visualized-with-Cartograms/blob/main/data/Download_data_Network-of-UNESCO-Sites_HIS-GIS.zip) the data and open all data files in QGIS. Take care about the project coordinate reference system (CRS). Set a equal-area projection, i.e. [World Robinson](http://epsg.io/54030). Your data should look like the map in figure 1.
@@ -80,7 +79,7 @@ Explore the site [Abu Mena](http://whc.unesco.org/en/list/90/). Do you know why 
 
 
 
-### Aufgabe 4 (35 Punkte)
+### Excersice 4
 Follow the steps in excersice 2 to install the [*cartogram3*](https://plugins.qgis.org/plugins/cartogram3/) plugin. Use the World Heritage in Danger file to calculate a cartoram.
 
 
