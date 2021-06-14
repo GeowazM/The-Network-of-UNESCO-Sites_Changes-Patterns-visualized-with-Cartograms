@@ -17,13 +17,18 @@
 
 <br/>
 <br/>
+## Table of content
+1. [Download data](https://github.com/GeowazM/The-Network-of-UNESCO-Sites-Changes-and-Patterns-visualized-with-Cartograms/blob/main/data/Download_data_Network-of-UNESCO-Sites_HIS-GIS.zip), unzip & open in QGIS
+2. Install plugins
+3. Load OSM & Bing Satellite  [Abu Mena](http://whc.unesco.org/en/list/90/)
+4. Create cartogram
+
 <br/>
 
 ## Context
 Since its foundation in 1945, the United Nations Educational, Scientific and Cultural Organization (UNESCO) became one of the most famous international institutions worldwide. With its different programs, the UNESCO has transformed itself into an important brand for the protection of cultural and natural landmarks. Continuously, the list of UNESCO designated sites is growing. However, the last five decades have been characterized by global economic and political changes, which have also repeatedly made it necessary for UNESCO to adapt. The List of World Heritage in Danger shows impressively, that also centuries-old properties have to accommodate to ascertained and potential sources of danger. As the political and economic importance of UNESCO has increased, so has the media attention about the UNESCO and its decisions. It is a balancing act to make sensible decisions as a global institution that affect the lives of individuals in different regions around the world.
 The constantly increase of UNESCO designated sites can be shown very well on the basis of tables and graphs. However, the regional weighting and influence of certain policies can barely be displayed with tables and numbers, if at all. Maps can be helpful, making the spatial distribution over varying times visible. By using cartograms, warping a regular map based on a certain value, the different weighting of the individual regions can be shown even more clearly. This allows an interpretation of past developments and implementation of the individual policies of UNESCO.
-
-### Map
+<br/>
 <p align="center">
   <img src="/images/UNESCO_sites_overview.png" width="800" alt="Sublime's custom image"/>
 </p>
@@ -35,7 +40,11 @@ Map of the global distribution of UNESCO Global Geoparks, Biosphere Reserves and
 
 ## Excersice
 
-### Aufgabe 1 (15 Punkte)
+### Excersice 1 (15 points)
+[Download](https://github.com/GeowazM/The-Network-of-UNESCO-Sites-Changes-and-Patterns-visualized-with-Cartograms/blob/main/data/Download_data_Network-of-UNESCO-Sites_HIS-GIS.zip) the data and open all data files in QGIS.
+
+Take care about the project coordinate reference system (CRS). Set a equal-area projection, i.e. [World Robinson](http://epsg.io/54030).
+
 Extrahiert das Gebiet der Dammer Oberkreidemulde inklusive der umliegenden Höhenzüge (Gehn, Stemweder Berg, Dammer Berge, direkt südlich angrenzender Teil des Wiehengebirges) aus dem Gesamtdatensatz (TANDEM-X-Höhenraster). Erstellt dabei einen rechteckigen Ausschnitt. Stellt sicher, dass die Daten in einer geeigneten Projektion vorliegen (UTM 32N).
 
 ### Aufgabe 2 (35 Punkte)
