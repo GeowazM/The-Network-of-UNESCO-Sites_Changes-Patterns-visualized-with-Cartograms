@@ -5,7 +5,7 @@
 * How to plot data in QGIS
 *	How to install a plugin
 *	How to add further data
-*	How a GIS supports a analysis
+*	How a GIS supports a analysis#
 *	How to create a cartogram
 
 
@@ -64,7 +64,7 @@ Now we are adding more opportunities to our project. This can be done by the lar
 
 You can extend the plugin by adding a contrbution pack via <br>
 >    *Web* <br>
->>   *QuickMapServices* <br>
+>>   *QuickMapServices* <br>#
 >>>  *Settings* <br>
 >>>>   *More services* <br>
 >>>>>   *Get contributed pack* <br>
@@ -104,7 +104,7 @@ Explore the site [Abu Mena](http://whc.unesco.org/en/list/90/).
 
 
 ### Excersice 4
-Follow the steps in excersice 2 to install the [*cartogram3*](https://plugins.qgis.org/plugins/cartogram3/) plugin. Use the World Heritage in Danger file to calculate a cartoram. Generate a carrtogram with the iterator 5, 10 and 15. 
+Follow the steps in excersice 2 to install the [*cartogram3*](https://plugins.qgis.org/plugins/cartogram3/) plugin. Use the World Heritage in Danger file to calculate a cartogram. Generate a cartogram with the iterator 5, 10 and 15. 
 
 #### a) What's the advantages and challenges of the iterator?
 #### b) Which continent show the most World Heritage in danger? 
