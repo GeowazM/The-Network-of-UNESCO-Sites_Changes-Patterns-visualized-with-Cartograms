@@ -11,8 +11,8 @@
 ## Data:
 * UNESCO List of "*World Heritage in Danger*" (Source: [UNESCO](https://whc.unesco.org/en/danger/), Copyright©1992-2021 UNESCO/World Heritage Centre. All rights reserved)
 * UN subregions scheme (Source: [UN subregion M49](https://unstats.un.org/unsd/methodology/m49/), [Wiki](https://en.wikipedia.org/wiki/United_Nations_geoscheme))
-* Land basemap (Source: [Natural Earth](https://www.naturalearthdata.com/http//www.naturalearthdata.com/download/110m/physical/ne_110m_land.zip))
-* Ocean basemap (Source: [Natural Earth](https://www.naturalearthdata.com/http//www.naturalearthdata.com/download/110m/physical/ne_110m_ocean.zip))
+* [Terrestrial basemap](https://www.naturalearthdata.com/http//www.naturalearthdata.com/download/110m/physical/ne_110m_land.zip) (Source: [Natural Earth](https://www.naturalearthdata.com/))
+* [Oceanic basemap](https://www.naturalearthdata.com/http//www.naturalearthdata.com/download/110m/physical/ne_110m_ocean.zip) (Source: [Natural Earth](https://www.naturalearthdata.com/))
 
 <br/>
 <br/>
