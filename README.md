@@ -1,5 +1,5 @@
 # <div align="center"> The Network of UNESCO Sites </div>
-## <div align="center"<div align="center">> Changes and Patterns visualized with Cartograms </div>
+## <div align="center"> Changes and Patterns visualized with Cartograms </div>
 
 ### What you will learn<div align="center">
 * How to plot data in QGIS
@@ -17,7 +17,7 @@
 > [**Download data here**](https://github.com/GeowazM/The-Network-of-UNESCO-Sites-Changes-and-Patterns-visualized-with-Cartograms/blob/main/data/Download_data_Network-of-UNESCO-Sites_HIS-GIS.zip)
 
 
-### What to do
+### What to do<div align="center">
 1. Download the provided data & open in QGIS
 2. Install a useful plugin
 3. Explore a World Heritage Site in Danger
@@ -61,16 +61,16 @@ Now we are adding more opportunities to our project. This can be done by the lar
 * Now add the [**OSM Standard**](https://www.openstreetmap.org/about) layer
 
 
-After the installatation you can extend the plugin by adding a contrbution pack via <br>
-> I.   *Web* <br>
->> II.  *QuickMapServices* <br>
->>> III. *Settings* <br>
->>>> IV.  *More services* <br>
->>>>> V.   *Get contributed pack* <br>
+You can extend the plugin by adding a contrbution pack via <br>
+>    *Web* <br>
+>>   *QuickMapServices* <br>
+>>>  *Settings* <br>
+>>>>   *More services* <br>
+>>>>>   *Get contributed pack* <br>
 
 <br/>
 
-* Add the [**Bing Satellite**](https://www.arcgis.com/home/item.html?id=ae8ed793f2fb4ab0be1b7638082e95b5#:~:text=The%20Bing%20Maps%20aerial%20imagery,orthographic%20aerial%20and%20satellite%20imagery.&text=Bing%20Maps%20is%20continuously%20adding,not%20include%20bird's%20eye%20imagery) layer
+* Now you can add the [**Bing Satellite**](https://www.arcgis.com/home/item.html?id=ae8ed793f2fb4ab0be1b7638082e95b5#:~:text=The%20Bing%20Maps%20aerial%20imagery,orthographic%20aerial%20and%20satellite%20imagery.&text=Bing%20Maps%20is%20continuously%20adding,not%20include%20bird's%20eye%20imagery) layer
 
 <br/>
 
