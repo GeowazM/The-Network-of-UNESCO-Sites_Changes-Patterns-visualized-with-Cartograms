@@ -72,7 +72,7 @@ V.   *Get contributed pack*
 
 
 * Add the [**Bing Satellite**](https://www.arcgis.com/home/item.html?id=ae8ed793f2fb4ab0be1b7638082e95b5#:~:text=The%20Bing%20Maps%20aerial%20imagery,orthographic%20aerial%20and%20satellite%20imagery.&text=Bing%20Maps%20is%20continuously%20adding,not%20include%20bird's%20eye%20imagery) layer
-
+cartogram_World-Heritage-Sites_2011-2021.png
 <br/>
 
 #### What's the difference of the *OSM Standard* and the *Bing Satellite* layer? 
@@ -92,7 +92,7 @@ Your data should somehow look like the image below:
 ### Excersice 3
 Explore the site [Abu Mena](http://whc.unesco.org/en/list/90/). 
 
-#### Why is Abu Mena in danger? Whats the advantage of a GIS?
+#### Why is Abu Mena in dangercartogram_World-Heritage-Sites_2011-2021.png? Whats the advantage of a GIS?
 
 *Solution: [Indicators](http://whc.unesco.org/en/list/90/indicators/)*
 
@@ -106,7 +106,9 @@ Follow the steps in excersice 2 to install the [*cartogram3*](https://plugins.qg
 
 #### Which continent is contrary to the Wolrd Heritage cartogram below?
 
+<br/>
+
 <p align="center">
-  <img src="/images/world_heritage_test.png" width="800" alt="Map of the World Heritage in Danger"/>
+  <img src="/images/cartogram_World-Heritage-Sites_2011-2021.png" width="800" alt="Cartogram of the World Heritage Site designated sites between 2010 and 2021"/>
 </p>
 
