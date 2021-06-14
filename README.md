@@ -22,7 +22,7 @@
 ## Table of content:
 1. [Download data](https://github.com/GeowazM/The-Network-of-UNESCO-Sites-Changes-and-Patterns-visualized-with-Cartograms/blob/main/data/Download_data_Network-of-UNESCO-Sites_HIS-GIS.zip), unzip & open in QGIS
 2. Install plugins
-3. Load OSM & Bing Satellite  [Abu Mena](http://whc.unesco.org/en/list/90/)
+3. Explore the World Heritage Site [Abu Mena](http://whc.unesco.org/en/list/90/)
 4. Create cartogram
 
 <br/>
@@ -40,14 +40,14 @@ Figure 1: Map of the global distribution of UNESCO Global Geoparks, Biosphere Re
 <br/>
 <br/>
 
-## Excersice
+## ExcersiceExplore the World Heritage Site [Abu Mena](http://whc.unesco.org/en/list/90/)
 
 ### Excersice 1
 [Download](https://github.com/GeowazM/The-Network-of-UNESCO-Sites-Changes-and-Patterns-visualized-with-Cartograms/blob/main/data/Download_data_Network-of-UNESCO-Sites_HIS-GIS.zip) the data and open all data files in QGIS. Take care about the project coordinate reference system (CRS). Set a equal-area projection, i.e. [World Robinson](http://epsg.io/54030). Your data should look like the map in figure 1.
 
 
 ### Excersice 2 
-Now we are adding some more opportunities to our project. This can be done by the large library of plugins which is offered by the [QGIS Plugin Repository](https://plugins.qgis.org/). The QGIS Plugin Manager enable us to install a Plugin directly in QGIS. [Watch this tutorial](https://www.youtube.com/watch?v=Qf0MPTzf6Ow) (1 min) and install the *QuickMapServices* (QMS) plugin. 
+Now we are adding more opportunities to our project. This can be done by the large library of plugins which is offered by the [QGIS Plugin Repository](https://plugins.qgis.org/). The QGIS Plugin Manager enable us to install a Plugin directly in QGIS. [Watch this tutorial](https://www.youtube.com/watch?v=Qf0MPTzf6Ow) (1 min) and install the *QuickMapServices* (QMS) plugin. 
 
 
 * Now add the [**OSM Standard**](https://www.openstreetmap.org/about) layer
@@ -56,8 +56,10 @@ After the installatation you can extend the plugin by adding the contrbution pac
 
 * Add the [**Bing Satellite**](https://www.arcgis.com/home/item.html?id=ae8ed793f2fb4ab0be1b7638082e95b5#:~:text=The%20Bing%20Maps%20aerial%20imagery,orthographic%20aerial%20and%20satellite%20imagery.&text=Bing%20Maps%20is%20continuously%20adding,not%20include%20bird's%20eye%20imagery.) layer
 
+Explore the site [Abu Mena](http://whc.unesco.org/en/list/90/). Do you know why this World Heritage Site is in danger?
 
 
+*Solution: [Indicators](http://whc.unesco.org/en/list/90/indicators/)*
 
 ### Excersice 3
 Berechnet die Geländeneigung (Slope) in Grad für das extrahierte Gebiet. Speichert diese ebenfalls in ein GeoTIFF.
