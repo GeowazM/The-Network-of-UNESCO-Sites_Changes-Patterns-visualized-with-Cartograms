@@ -13,11 +13,13 @@
 * UN subregions scheme (Data source: [Countries](https://www.naturalearthdata.com/http//www.naturalearthdata.com/download/110m/cultural/ne_110m_admin_0_countries.zip), Scheme source: [UN subregion M49](https://unstats.un.org/unsd/methodology/m49/))
 * Oceanic basemap (Source: [Natural Earth](https://www.naturalearthdata.com/))
 
-[Download data](https://github.com/GeowazM/The-Network-of-UNESCO-Sites-Changes-and-Patterns-visualized-with-Cartograms/blob/main/data/Download_data_Network-of-UNESCO-Sites_HIS-GIS.zip)
+[**Download data**](https://github.com/GeowazM/The-Network-of-UNESCO-Sites-Changes-and-Patterns-visualized-with-Cartograms/blob/main/data/Download_data_Network-of-UNESCO-Sites_HIS-GIS.zip)
+
 
 <br/>
 <br/>
-## Table of content
+
+## Table of content:
 1. [Download data](https://github.com/GeowazM/The-Network-of-UNESCO-Sites-Changes-and-Patterns-visualized-with-Cartograms/blob/main/data/Download_data_Network-of-UNESCO-Sites_HIS-GIS.zip), unzip & open in QGIS
 2. Install plugins
 3. Load OSM & Bing Satellite  [Abu Mena](http://whc.unesco.org/en/list/90/)
@@ -32,7 +34,7 @@ The constantly increase of UNESCO designated sites can be shown very well on the
 <p align="center">
   <img src="/images/UNESCO_sites_overview.png" width="800" alt="Sublime's custom image"/>
 </p>
-Map of the global distribution of UNESCO Global Geoparks, Biosphere Reserves and World Heritage Sites within the UN subregions.
+Figure 1: Map of the global distribution of UNESCO Global Geoparks, Biosphere Reserves and World Heritage Sites within the UN subregions.
 
 <br/>
 <br/>
@@ -40,23 +42,24 @@ Map of the global distribution of UNESCO Global Geoparks, Biosphere Reserves and
 
 ## Excersice
 
-### Excersice 1 (15 points)
-[Download](https://github.com/GeowazM/The-Network-of-UNESCO-Sites-Changes-and-Patterns-visualized-with-Cartograms/blob/main/data/Download_data_Network-of-UNESCO-Sites_HIS-GIS.zip) the data and open all data files in QGIS.
-
-Take care about the project coordinate reference system (CRS). Set a equal-area projection, i.e. [World Robinson](http://epsg.io/54030).
-
-Extrahiert das Gebiet der Dammer Oberkreidemulde inklusive der umliegenden Höhenzüge (Gehn, Stemweder Berg, Dammer Berge, direkt südlich angrenzender Teil des Wiehengebirges) aus dem Gesamtdatensatz (TANDEM-X-Höhenraster). Erstellt dabei einen rechteckigen Ausschnitt. Stellt sicher, dass die Daten in einer geeigneten Projektion vorliegen (UTM 32N).
-
-### Aufgabe 2 (35 Punkte)
-Berechnet die lokalen Geländekrümmungen (Curvature) für den in Aufgabe 1 extrahierten Ausschnitt. Ermittelt hierbei zwei Arten der Geländekrümmung (siehe untenstehende Abbildung):
-
-* a) Profilkrümmung (englisch: profile),
-* b) Horizontalkrümmung (englisch: planform/plan).
-
-Eine positive Profilkrümmung gibt eine konkave Krümmung an, was die Fließgeschwindigkeit von abfließendem Wasser erhöht. Bei der horizontalen Krümmung sind hingegen negative Werte von größerer Bedeutung für die Erosion, da dies Wasserflüsse bündelt und so die Fließgeschwindigkeit und den Bodenabtrag noch stärker beschleunigt.
+### Excersice 1
+[Download](https://github.com/GeowazM/The-Network-of-UNESCO-Sites-Changes-and-Patterns-visualized-with-Cartograms/blob/main/data/Download_data_Network-of-UNESCO-Sites_HIS-GIS.zip) the data and open all data files in QGIS. Take care about the project coordinate reference system (CRS). Set a equal-area projection, i.e. [World Robinson](http://epsg.io/54030). Your data should look like the map in figure 1.
 
 
-### Aufgabe 3 (15 Punkte)
+### Excersice 2 
+Now we are adding some more opportunities to our project. This can be done by the large library of plugins which is offered by the [QGIS Plugin Repository](https://plugins.qgis.org/). The QGIS Plugin Manager enable us to install a Plugin directly in QGIS. [Watch this tutorial](https://www.youtube.com/watch?v=Qf0MPTzf6Ow) (1 min) and install the *QuickMapServices* (QMS) plugin. 
+
+
+* Now add the [**OSM Standard**](https://www.openstreetmap.org/about) layer
+
+After the installatation you can extend the plugin by adding the contrbution pack via *Web --> QuickMapServices --> Settings --> More services --> Get contributed pack*
+
+* Add the [**Bing Satellite**](https://www.arcgis.com/home/item.html?id=ae8ed793f2fb4ab0be1b7638082e95b5#:~:text=The%20Bing%20Maps%20aerial%20imagery,orthographic%20aerial%20and%20satellite%20imagery.&text=Bing%20Maps%20is%20continuously%20adding,not%20include%20bird's%20eye%20imagery.) layer
+
+
+
+
+### Excersice 3
 Berechnet die Geländeneigung (Slope) in Grad für das extrahierte Gebiet. Speichert diese ebenfalls in ein GeoTIFF.
 
 ### Aufgabe 4 (35 Punkte)
