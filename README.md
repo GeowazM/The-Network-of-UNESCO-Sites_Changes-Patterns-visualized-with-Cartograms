@@ -15,7 +15,6 @@
 
 [**Download data**](https://github.com/GeowazM/The-Network-of-UNESCO-Sites-Changes-and-Patterns-visualized-with-Cartograms/blob/main/data/Download_data_Network-of-UNESCO-Sites_HIS-GIS.zip)
 
-Berechnet die Geländeneigung (Slope) in Grad für das extrahierte Gebiet. Speichert diese ebenfalls in ein GeoTIFF.
 <br/>
 <br/>
 
@@ -32,7 +31,7 @@ Since its foundation in 1945, the United Nations Educational, Scientific and Cul
 The constantly increase of UNESCO designated sites can be shown very well on the basis of tables and graphs. However, the regional weighting and influence of certain policies can barely be displayed with tables and numbers, if at all. Maps can be helpful, making the spatial distribution over varying times visible. By using cartograms, warping a regular map based on a certain value, the different weighting of the individual regions can be shown even more clearly. This allows an interpretation of past developments and implementation of the individual policies of UNESCO.
 <br/>
 <p align="center">
-  <img src="/images/UNESCO_sites_overview.png" width="800" alt="Sublime's custom image"/>
+  <img src="/images/UNESCO_sites_overview.png" width="800" alt="Map of global distribution of UNESCO sites"/>
 </p>
 Figure 1: Map of the global distribution of UNESCO Global Geoparks, Biosphere Reserves and World Heritage Sites within the UN subregions.
 
@@ -40,7 +39,7 @@ Figure 1: Map of the global distribution of UNESCO Global Geoparks, Biosphere Re
 <br/>
 <br/>
 
-## ExcersiceExplore the World Heritage Site [Abu Mena](http://whc.unesco.org/en/list/90/)
+## Excersice
 
 ### Excersice 1
 [Download](https://github.com/GeowazM/The-Network-of-UNESCO-Sites-Changes-and-Patterns-visualized-with-Cartograms/blob/main/data/Download_data_Network-of-UNESCO-Sites_HIS-GIS.zip) the data and open all data files in QGIS. Take care about the project coordinate reference system (CRS). Set a equal-area projection, i.e. [World Robinson](http://epsg.io/54030). Your data should look like the map in figure 1.
@@ -55,16 +54,21 @@ Now we are adding more opportunities to our project. This can be done by the lar
 * Now add the [**OSM Standard**](https://www.openstreetmap.org/about) layer
 
 
-After the installatation you can extend the plugin by adding a contrbution pack via *Web --> QuickMapServices --> Settings --> More services --> Get contributed pack*.
+After the installatation you can extend the plugin by adding a contrbution pack via 
+I.   *Web* 
+II.  *QuickMapServices* 
+III. *Settings*
+IV.  *More services*
+V.   *Get contributed pack*
 <br/>
 
 
-* Add the [**Bing Satellite**](https://www.arcgis.com/home/item.html?id=ae8ed793f2fb4ab0be1b7638082e95b5#:~:text=The%20Bing%20Maps%20aerial%20imagery,orthographic%20aerial%20and%20satellite%20imagery.&text=Bing%20Maps%20is%20continuousFollow the steps in excersice ly%20adding,not%20include%20bird's%20eye%20imagery.) layer
+* Add the [**Bing Satellite**](https://www.arcgis.com/home/item.html?id=ae8ed793f2fb4ab0be1b7638082e95b5#:~:text=The%20Bing%20Maps%20aerial%20imagery,orthographic%20aerial%20and%20satellite%20imagery.&text=Bing%20Maps%20is%20continuously%20adding,not%20include%20bird's%20eye%20imagery) layer
 
 
-Your data should look like the image below:
+Your data should somewhow look like the image below:
 <p align="center">
-  <img src="/images/UNESCO_sites_overview.png" width="800" alt="Sublime's custom image"/>
+  <img src="/images/world_heritage_test.png" width="800" alt="Map of the World Heritage in Danger"/>
 </p>
 
 ### Excersice 3
