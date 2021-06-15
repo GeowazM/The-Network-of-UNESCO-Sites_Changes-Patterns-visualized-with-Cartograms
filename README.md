@@ -64,7 +64,7 @@ Now we are adding more opportunities to our project. This can be done by the lar
 
 You can extend the plugin by adding a contrbution pack via <br>
 >    *Web* <br>
->>   *QuickMapServices* <br>#
+>>   *QuickMapServices* <br>
 >>>  *Settings* <br>
 >>>>   *More services* <br>
 >>>>>   *Get contributed pack* <br>
