@@ -7,7 +7,7 @@
 * How to plot data in QGIS
 *	How to install a plugin
 *	How to add further data
-*	How a GIS supports a analysis#
+*	How a GIS supports a spatial analysis
 *	How to create a cartogram
 
 
