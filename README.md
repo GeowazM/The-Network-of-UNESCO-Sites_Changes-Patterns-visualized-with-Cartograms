@@ -1,8 +1,3 @@
-<img src="/images/logo.jpg" alt="rgeo Heidelberg University of Education"/>
-
-
-<img src="/images/unesco_chair.jpg" width="250" heigth="120" alt="UNESCO Chair Heidelberg University of Education"/>
-
 
 
 # <div align="center"> The Network of UNESCO Sites </div>
@@ -121,4 +116,25 @@ Follow the steps in excersice 2 to install the [*cartogram3*](https://plugins.qg
 </p>
   
 ###### <div align="center">  Figure 3: Cartogram of the World Heritage Site designated sites between 2010 and 2021 </div>
+
+
+
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+---
+
+<div align="center">
+<img src="/images/rgeo_unesco-chair-logo.jpg" width="650" alt="rgeo Heidelberg University of Education"/>
+</div>
+
+
+
+
 
