@@ -92,10 +92,11 @@ You can extend the plugin by adding a contrbution pack via <br>
 <br/>
 
 ### Excersice 3
-Explore the site [Abu Mena](http://whc.unesco.org/en/list/90/) online and in QGIS. 
+Explore the site [Abu Mena](http://whc.unesco.org/en/list/90/) in QGIS and online. 
 
-#### a) Why is Abu Mena in danger? 
-#### b) Whats the advantage of a GIS?
+#### a) Descrip the land use around Abu Mena. 
+#### b) Why is Abu Mena in danger? 
+#### c) Whats the advantage of a GIS?
 
 
 <br/>
