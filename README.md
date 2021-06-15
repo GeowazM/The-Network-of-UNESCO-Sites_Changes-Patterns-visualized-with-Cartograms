@@ -101,7 +101,7 @@ Explore the site [Abu Mena](http://whc.unesco.org/en/list/90/) in QGIS and onlin
 
 <br/>
 
-### Hier noch eine Aufgabe zum Tool "Count Points in Polygon". 
+### Hier noch eine Aufgabe zum Tool "Count Points in Polygon" und Exportieren der Tabelle für den Vergleich =) ==> Um möglichst nah am Workflow zu bleiben. 
 
 ### Excersice 4
 Follow the steps in excersice 2 to install the [*cartogram3*](https://plugins.qgis.org/plugins/cartogram3/) plugin. Use the World Heritage in Danger file to calculate a cartogram. Generate a cartogram with the iterator 5, 10 and 15. 
