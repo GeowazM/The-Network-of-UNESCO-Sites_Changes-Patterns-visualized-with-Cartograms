@@ -1,7 +1,7 @@
 # <div align="center"> The Network of UNESCO Sites </div>
 ## <div align="center"> Changes and Patterns visualized with Cartograms </div>
 
-### What you will learn<div align="center">
+### What you will learn
 * How to plot data in QGIS
 *	How to install a plugin
 *	How to add further data
@@ -21,7 +21,7 @@
 1. Download the provided data & open in QGIS
 2. Install a useful plugin
 3. Explore a World Heritage Site in Danger
-4. Analyse the distribution of World Heritage in Danger worldwide
+4. Analyse the distribution of World Heritage Sites in Danger worldwide
 
 <br/>
 
