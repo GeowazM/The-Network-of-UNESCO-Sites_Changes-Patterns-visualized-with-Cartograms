@@ -1,7 +1,7 @@
 # <div align="center"> The Network of UNESCO Sites </div>
 ## <div align="center"> Changes and Patterns visualized with Cartograms </div>
 
-### What you will learn
+### What we will learn
 * How to plot data in QGIS
 *	How to install a plugin
 *	How to add further data
@@ -9,7 +9,7 @@
 *	How to create a cartogram
 
 
-### What you need
+### What we need
 * UNESCO List of "*World Heritage in Danger*" (Source: [UNESCO](https://whc.unesco.org/en/danger/), Copyright©1992-2021 UNESCO/World Heritage Centre. All rights reserved)</div>
 * UN subregions scheme (Data source: [Countries](https://www.naturalearthdata.com/http//www.naturalearthdata.com/download/110m/cultural/ne_110m_admin_0_countries.zip), Scheme source: [UN subregion M49](https://unstats.un.org/unsd/methodology/m49/))
 * Oceanic basemap (Source: [Natural Earth](https://www.naturalearthdata.com/))
@@ -17,7 +17,7 @@
 > [**Download data here**](https://github.com/GeowazM/The-Network-of-UNESCO-Sites-Changes-and-Patterns-visualized-with-Cartograms/blob/main/data/Download_data_Network-of-UNESCO-Sites_HIS-GIS.zip)
 
 
-### What to do<div align="center">
+### What to do
 1. Download the provided data & open in QGIS
 2. Install a useful plugin
 3. Explore a World Heritage Site in Danger
@@ -44,9 +44,9 @@ The constantly increase of UNESCO designated sites can be shown very well on the
 ## Hands-on<br/>
 
 ### Excersice 1
-[Download](https://github.com/GeowazM/The-Network-of-UNESCO-Sites-Changes-and-Patterns-visualized-with-Cartograms/blob/main/data/Download_data_Network-of-UNESCO-Sites_HIS-GIS.zip) the data and open all data files in QGIS. Take care about the project coordinate reference system (CRS). Set a equal-area projection, i.e. [World Robinson](http://epsg.io/54030). Your data should look like the map in figure 1. Check out the World Heritage Site "*Tasmanien Wilderness*". Use the data to get some information. 
+[Download](https://github.com/GeowazM/The-Network-of-UNESCO-Sites-Changes-and-Patterns-visualized-with-Cartograms/blob/main/data/Download_data_Network-of-UNESCO-Sites_HIS-GIS.zip) the data and open all data files in QGIS. Take care about the project coordinate reference system (CRS). Set a equal-area projection, i.e. [World Robinson](http://epsg.io/54030). Your data should look like the map in figure 1. Have a look to the World Heritage Site "*Tasmanien Wilderness*". Use the data to get some information. 
 
-#### a) When was the designation?
+#### a) When was the designation of the "*Tasmanien Wilderness*"?
 #### b) How many hectars is covered by the "*Tasmanien Wilderness*"?
 
 
@@ -77,7 +77,7 @@ You can extend the plugin by adding a contrbution pack via <br>
 
 
 <p align="center">
-  <img src="/images/world_heritage_test.png" width="800" alt="Map of the World Heritage in Danger"/>
+  <img src="/images/world_heritage_test.png" width="80div align="center">0" alt="Map of the World Heritage in Danger"/>
 </p>
 
 ###### <div align="center">  Figure 2: Example map with Bing Satellite as basemap </div>
@@ -108,7 +108,7 @@ Follow the steps in excersice 2 to install the [*cartogram3*](https://plugins.qg
 
 #### a) What's the advantages and challenges of the iterator?
 #### b) Which continent show the most World Heritage in danger? 
-#### c) What is the contrary to the World Heritage cartogram below?
+#### c) What's the difference to the World Heritage cartogram below?
 
 <br/>
 
