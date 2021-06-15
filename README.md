@@ -1,3 +1,10 @@
+<img src="/images/rgeo.jpg" width="250" heigth="100" alt="rgeo Heidelberg University of Education"/>
+
+
+<img src="/images/unesco_chair.jpg" width="250" heigth="120" alt="UNESCO Chair Heidelberg University of Education"/>
+
+
+
 # <div align="center"> The Network of UNESCO Sites </div>
 ## <div align="center"> Changes and Patterns visualized with Cartograms </div>
 
