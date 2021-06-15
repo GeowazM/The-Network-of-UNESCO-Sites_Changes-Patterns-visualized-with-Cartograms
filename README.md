@@ -113,7 +113,7 @@ Follow the steps in excersice 2 to install the [*cartogram3*](https://plugins.qg
 <br/>
 
 <p align="center">
-  <img src="/images/cartogram_World-Heritage-Sites_2011-2021.png" width="800" alt="Cartogram of the World Heritage Site designated sites between 2010 and 2021"/>
+  <img src="/images/cartogram_World-Heritage-Sites_2011-2021_small.png" width="800" alt="Cartogram of the World Heritage Site designated sites between 2010 and 2021"/>
 </p>
   
 ###### <div align="center">  Figure 3: Cartogram of the World Heritage Site designated sites between 2010 and 2021 </div>
