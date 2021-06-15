@@ -77,7 +77,7 @@ You can extend the plugin by adding a contrbution pack via <br>
 
 
 <p align="center">
-  <img src="/images/world_heritage_test.png" width="80div align="center">0" alt="Map of the World Heritage in Danger"/>
+  <img src="/images/world_heritage_test.png" width="800" alt="Map of the World Heritage in Danger"/>
 </p>
 
 ###### <div align="center">  Figure 2: Example map with Bing Satellite as basemap </div>
