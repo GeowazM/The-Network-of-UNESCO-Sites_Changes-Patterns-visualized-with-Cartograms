@@ -90,7 +90,7 @@ You can extend the plugin by adding a contrbution pack via <br>
 <br/>
 
 ### Excersice 3
-Explore the site [Abu Mena](http://whc.unesco.org/en/list/90/). 
+Explore the site [Abu Mena](http://whc.unesco.org/en/list/90/) online and in QGIS. 
 
 #### a) Why is Abu Mena in danger? 
 #### b) Whats the advantage of a GIS?
