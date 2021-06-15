@@ -97,7 +97,6 @@ Explore the site [Abu Mena](http://whc.unesco.org/en/list/90/).
 #### a) Why is Abu Mena in danger? 
 #### b) Whats the advantage of a GIS?
 
-> *Solution: [Indicators](http://whc.unesco.org/en/list/90/indicators/)*
 
 <br/>
 
