@@ -12,7 +12,7 @@
 
 
 ### What we need
-* UNESCO List of "*World Heritage in Danger*" (Source: [UNESCO](https://whc.unesco.org/en/danger/), Copyright©1992-2021 UNESCO/World Heritage Centre. All rights reserved)</div>
+* Dataset "*UNESCO World Heritage in Danger*" (own research based on [UNESCO](https://whc.unesco.org/en/danger/), Copyright©1992-2021 UNESCO/World Heritage Centre. All rights reserved)</div>
 * UN subregions scheme (Data source: [Countries](https://www.naturalearthdata.com/http//www.naturalearthdata.com/download/110m/cultural/ne_110m_admin_0_countries.zip), Scheme source: [UN subregion M49](https://unstats.un.org/unsd/methodology/m49/))
 * Oceanic basemap (Source: [Natural Earth](https://www.naturalearthdata.com/))
 
@@ -46,7 +46,7 @@ The constantly increase of UNESCO designated sites can be shown very well on the
 ## Hands-on<br/>
 
 ### Excersice 1
-[Download](https://github.com/GeowazM/The-Network-of-UNESCO-Sites-Changes-and-Patterns-visualized-with-Cartograms/blob/main/data/Download_data_Network-of-UNESCO-Sites_HIS-GIS.zip) the data and open all data files in QGIS. Take care about the project [coordinate reference system (CRS)](https://www.worldatlas.com/geography/world-map-robinson-projection.html). Set a equal-area projection, i.e. [World Robinson](http://epsg.io/54030). Your data should look like the map in figure 1. Have a look to the World Heritage Site "*Tasmanien Wilderness*". Use the data to get some information. 
+[Download](https://github.com/GeowazM/The-Network-of-UNESCO-Sites-Changes-and-Patterns-visualized-with-Cartograms/blob/main/data/Download_data_Network-of-UNESCO-Sites_HIS-GIS.zip) the data and open all data files in QGIS. Take care about the project [coordinate reference system (CRS)](https://www.worldatlas.com/geography/world-map-robinson-projection.html). Set a equal-area projection, i.e. [World Robinson](http://epsg.io/54030) (EPSI: 54030). Your data should look like the map in figure 1. Have a look to the World Heritage Site "*Tasmanien Wilderness*". Use the data to get some information. 
 
 #### a) When was the designation of the "*Tasmanien Wilderness*"?
 #### b) How many hectars is covered by the "*Tasmanien Wilderness*"?
@@ -56,7 +56,7 @@ The constantly increase of UNESCO designated sites can be shown very well on the
 
 
 ### Excersice 2 
-Now we are adding more opportunities to our project. This can be done by the large library of plugins which is offered by the [QGIS Plugin Repository](https://plugins.qgis.org/). The QGIS Plugin Manager enable us to install a Plugin directly in QGIS. [Watch this tutorial](https://www.youtube.com/watch?v=Qf0MPTzf6Ow) (1 min) and install the *QuickMapServices (QMS)* plugin. 
+Now we are adding maps and satellite images to our project. Those can be used for orientation and simple analyses. This can be done by the large library of plugins which is offered by the [QGIS Plugin Repository](https://plugins.qgis.org/). The QGIS Plugin Manager enable us to install a Plugin directly in QGIS. [Watch this tutorial](https://www.youtube.com/watch?v=Qf0MPTzf6Ow) (1 min) and install the *QuickMapServices (QMS)* plugin. 
 
 <br/>
 
@@ -64,7 +64,7 @@ Now we are adding more opportunities to our project. This can be done by the lar
 * Now add the [**OSM Standard**](https://www.openstreetmap.org/about) layer
 
 
-You can extend the plugin by adding a contrbution pack via <br>
+To add satellite imagery via the "Bing Satellite Layer", we have to extend the plugin by adding a contrbution pack via <br>
 >    *Web* <br>
 >>   *QuickMapServices* <br>
 >>>  *Settings* <br>
@@ -79,7 +79,7 @@ You can extend the plugin by adding a contrbution pack via <br>
 
 
 <p align="center">
-  <img src="/images/world_heritage_test.png" width="800" alt="Map of the World Heritage in Danger"/>
+  <img src="/images/world_heritage_test.png" width="800" alt="Map of the World Heritage in Danger (cartography: Mario Blersch, data: )"/>
 </p>
 
 ###### <div align="center">  Figure 2: Example map with Bing Satellite as basemap </div>
@@ -113,7 +113,7 @@ Follow the steps in excersice 2 to install the [*cartogram3*](https://plugins.qg
 <br/>
 
 <p align="center">
-  <img src="/images/cartogram_World-Heritage-Sites_2011-2021_small.png" width="800" alt="Cartogram of the World Heritage Site designated sites between 2010 and 2021"/>
+  <img src="/images/cartogram_World-Heritage-Sites_2011-2021_small.png" width="800" alt="Cartogram of the World Heritage Site designated sites between 2010 and 2021 (cartography: Mario Blersch, data: )"/>
 </p>
   
 ###### <div align="center">  Figure 3: Cartogram of the World Heritage Site designated sites between 2010 and 2021 </div>
