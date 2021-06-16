@@ -53,13 +53,7 @@ The constantly increase of UNESCO designated sites can be shown very well on the
 #### b) How many hectars is covered by the "*Tasmanien Wilderness*"?
 
 
-<br/>​
-141
-<div align="center">
-142
-<img src="/images/rgeo_unesco-chair-logo.jpg" width="650" alt="rgeo Heidelberg University of Education"/>
-143
-</div>
+<br/>
 
 
 ### Excersice 2 
