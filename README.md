@@ -2,13 +2,8 @@
 
 # <div align="center"> The Network of UNESCO Sites </div>
 ## <div align="center"> Changes and Patterns visualized with Cartograms </div>
-​
-141
-<div align="center">
-142
-<img src="/images/rgeo_unesco-chair-logo.jpg" width="650" alt="rgeo Heidelberg University of Education"/>
-143
-</div>
+
+
 ### What we will learn
 * How to plot data in QGIS
 *	How to install a plugin
@@ -119,12 +114,6 @@ Explore the site [Abu Mena](http://whc.unesco.org/en/list/90/) in QGIS and onlin
 Follow the steps in excersice 2 to install the [*cartogram3*](https://plugins.qgis.org/plugins/cartogram3/) plugin. Use the World Heritage in Danger file to calculate a cartogram. Generate a cartogram with the iterator 5, 10 and 15. 
 
 #### a) What's the advantages and challenges of the iterator?​
-141
-<div align="center">
-142
-<img src="/images/rgeo_unesco-chair-logo.jpg" width="650" alt="rgeo Heidelberg University of Education"/>
-143
-</div>
 #### b) Which continent show the most World Heritage in danger? 
 #### c) What's the difference to the World Heritage cartogram below?
 
@@ -150,5 +139,5 @@ Follow the steps in excersice 2 to install the [*cartogram3*](https://plugins.qg
 ---
 
 <div align="center">
-<img src="/images/rgeo_unesco-chair_uni-hd.jpg" width="800" alt="rgeo Heidelberg University of Education"/>
+<img src="/images/rgeo_unesco-chair_uni-hd.jpg" width="750" alt="rgeo Heidelberg University of Education"/>
 </div>
