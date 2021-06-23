@@ -121,6 +121,10 @@ Now you can use the csv file to create graphs i.e. in excel to support the visua
 
 <br/>
 
+#### e) Which UN subregion show 15 World Heritage Sites in Danger?
+
+<br/>
+
 ### Excersice 5
 Follow the steps in excersice 2 to install the [*cartogram3*](https://plugins.qgis.org/plugins/cartogram3/) plugin. Use the World Heritage in Danger file to calculate a cartogram. Generate a cartogram with the iterator 5, 10 and 15. 
 
