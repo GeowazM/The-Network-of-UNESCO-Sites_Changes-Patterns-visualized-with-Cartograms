@@ -83,7 +83,7 @@ To add satellite imagery via the "Bing Satellite Layer", we have to extend the p
   <img src="/images/whs_in_danger.PNG" width="800" alt="Map of the World Heritage in Danger (cartography: Mario Blersch, data: )"/>
 </p>
 
-###### <div align="center">  Figure 2: Example map with Bing Satellite as basemap </div>
+###### <div align="center">  Figure 2: Example map with *Bing Satellite* as basemap </div>
 
 <br/>
 
