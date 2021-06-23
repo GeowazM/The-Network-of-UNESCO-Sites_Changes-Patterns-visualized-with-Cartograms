@@ -150,5 +150,5 @@ Follow the steps in excersice 2 to install the [*cartogram3*](https://plugins.qg
 ---
 
 <div align="center">
-<img src="/images/rgeo_unesco-chair_uni-hd.jpg" width="750" alt="rgeo Heidelberg University of Education"/>
+<img src="/images/rgeo_unesco-chair_uni-hd_v2.jpg" width="750" alt="rgeo Heidelberg University of Education"/>
 </div>
