@@ -46,17 +46,17 @@ The constantly increase of UNESCO designated sites can be shown very well on the
 
 ## Hands-on<br/>
 
-### Excersice 1
+### Exercise 1
 [Download](https://github.com/GeowazM/The-Network-of-UNESCO-Sites-Changes-and-Patterns-visualized-with-Cartograms/blob/main/data/Download_data_Network-of-UNESCO-Sites_HIS-GIS.zip) the data and open all files in QGIS. Take care about the project [coordinate reference system (CRS)](https://www.worldatlas.com/geography/world-map-robinson-projection.html). Set a equal-area projection, i.e. [World Robinson](http://epsg.io/54030) (EPSI: 54030). Your data should look like the map in figure 1. Have a look to the World Heritage Site "*Tasmanien Wilderness*". Use the data to get some information. 
 
-#### a) When was the designation of the "*Tasmanien Wilderness*"?
-#### b) How many hectars is covered by the "*Tasmanien Wilderness*"?
+#### a) When was the designation of the "*Tasmanian Wilderness*"?
+#### b) How many hectares is covered by the "*Tasmanian Wilderness*"?
 
 
 <br/>
 
 
-### Excersice 2 
+### Exercise 2 
 Now we are adding maps and satellite images to our project. Those can be used for orientation and simple analyses. This can be done by the large library of plugins which is offered by the [QGIS Plugin Repository](https://plugins.qgis.org/). The QGIS Plugin Manager enable us to install a Plugin directly in QGIS. [Watch this tutorial](https://www.youtube.com/watch?v=Qf0MPTzf6Ow) (1 min) and install the *QuickMapServices (QMS)* plugin. 
 
 <br/>
@@ -65,7 +65,7 @@ Now we are adding maps and satellite images to our project. Those can be used fo
 * Now add the [**OSM Standard**](https://www.openstreetmap.org/about) layer
 
 
-To add satellite imagery via the "Bing Satellite Layer", we have to extend the plugin by adding a contrbution pack via <br>
+To add satellite imagery via the "Bing Satellite Layer", we must extend the plugin by adding a contribution pack via <br>
 >    *Web* <br>
 >>   *QuickMapServices* <br>
 >>>  *Settings* <br>
@@ -92,18 +92,18 @@ To add satellite imagery via the "Bing Satellite Layer", we have to extend the p
 
 <br/>
 
-### Excersice 3
+### Exercise 3
 Explore the site [Abu Mena](http://whc.unesco.org/en/list/90/) in QGIS and online. 
 
-#### a) Descrip the land use around Abu Mena. 
+#### a) Describe the land use around Abu Mena. 
 #### b) Why is Abu Mena in danger? 
-#### c) Whats the advantage of a GIS?
+#### c) What is the advantage of a GIS?
 
 
 <br/>
 
 ### Excersice 4
-Now we need to know how many UNESCO sites in danger are within each UN subregion. Therefore, open the downloaded "*UN_subregions_with_UNESCO_sites.geojson*" file in QGIS. Check if every point is located in a UN subregion. Let's add the number of UNESCO sites in danger (point features) to the UN subregions (polygon features) with the "*Count points in polygon*" algorithm. 
+Now we need to know how many UNESCO sites in danger are within each UN subregion. Therefore, open the downloaded "*UN_subregions_with_UNESCO_sites.geojson*" file in QGIS. Check if every point is in a UN subregion. Than we add the number of UNESCO sites in danger (point features) to the UN subregions (polygon features) with the "*Count points in polygon*" algorithm. 
 
 #### a) Open Processing Toolbox
 >    *Processing* <br>
@@ -111,7 +111,7 @@ Now we need to know how many UNESCO sites in danger are within each UN subregion
 #### b) Search the "*Count points in polygon*" algorithm
 #### c) Run the "*Count points in polygon*" algorithm
 #### d) Export the file as csv format
->    *Layer (rigth-click)* <br>
+>    *Layer (right-click)* <br>
 >>   *Export* <br>
 >>>  *Save Features As...*  <br>
 
@@ -125,8 +125,8 @@ Now you can use the csv file to create graphs i.e. in excel to support the visua
 
 <br/>
 
-### Excersice 5
-Follow the steps in excersice 2 to install the [*cartogram3*](https://plugins.qgis.org/plugins/cartogram3/) plugin. Use the World Heritage in Danger file to calculate a cartogram. Generate a cartogram with the iterator 5, 10 and 15. 
+### Exercise 5
+Follow the steps in Exercise 2 to install the [*cartogram3*](https://plugins.qgis.org/plugins/cartogram3/) plugin. Use the World Heritage in Danger file to calculate a cartogram. Generate a cartogram with the iterator 5, 10 and 15. 
 
 #### a) What's the advantages and challenges of the iterator?​
 #### b) Which continent show the most World Heritage in danger? 
