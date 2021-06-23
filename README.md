@@ -103,9 +103,23 @@ Explore the site [Abu Mena](http://whc.unesco.org/en/list/90/) in QGIS and onlin
 <br/>
 
 ### Excersice 4
+Now we need to know how many UNESCO sites in danger are within each UN subregion. Therefore, open the downloaded "*UN_subregions_with_UNESCO_sites.geojson*" file in QGIS. Check if every point is located in a UN subregion. Let's add the number of UNESCO sites in danger (point features) to the UN subregions (polygon features) with the "*Count points in polygon*" algorithm. 
 
+#### a) Open Processing Toolbox
+>    *Processing* <br>
+>>   *Toolbox* <br>
+#### b) Search the "*Count points in polygon*" algorithm
+#### c) Run the "*Count points in polygon*" algorithm
+#### d) Export the file as csv format
+>    *Layer (rigth-click)* <br>
+>>   *Export* <br>
+>>>  *Save Features As...*  <br>
 
-### Hier noch eine Aufgabe zum Tool "Count Points in Polygon" und Exportieren der Tabelle für den Vergleich =) ==> Um möglichst nah am Workflow zu bleiben. 
+<br/>
+
+Now you can use the csv file to create graphs i.e. in excel to support the visualization of a map.
+
+<br/>
 
 ### Excersice 5
 Follow the steps in excersice 2 to install the [*cartogram3*](https://plugins.qgis.org/plugins/cartogram3/) plugin. Use the World Heritage in Danger file to calculate a cartogram. Generate a cartogram with the iterator 5, 10 and 15. 
