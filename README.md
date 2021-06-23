@@ -141,11 +141,6 @@ Follow the steps in excersice 2 to install the [*cartogram3*](https://plugins.qg
 
 <br/>
 
-<br/>
-
-<br/>
-
-<br/>
 
 ---
 
