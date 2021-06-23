@@ -47,7 +47,7 @@ The constantly increase of UNESCO designated sites can be shown very well on the
 ## Hands-on<br/>
 
 ### Excersice 1
-[Download](https://github.com/GeowazM/The-Network-of-UNESCO-Sites-Changes-and-Patterns-visualized-with-Cartograms/blob/main/data/Download_data_Network-of-UNESCO-Sites_HIS-GIS.zip) the data and open all data files in QGIS. Take care about the project [coordinate reference system (CRS)](https://www.worldatlas.com/geography/world-map-robinson-projection.html). Set a equal-area projection, i.e. [World Robinson](http://epsg.io/54030) (EPSI: 54030). Your data should look like the map in figure 1. Have a look to the World Heritage Site "*Tasmanien Wilderness*". Use the data to get some information. 
+[Download](https://github.com/GeowazM/The-Network-of-UNESCO-Sites-Changes-and-Patterns-visualized-with-Cartograms/blob/main/data/Download_data_Network-of-UNESCO-Sites_HIS-GIS.zip) the data and open all files in QGIS. Take care about the project [coordinate reference system (CRS)](https://www.worldatlas.com/geography/world-map-robinson-projection.html). Set a equal-area projection, i.e. [World Robinson](http://epsg.io/54030) (EPSI: 54030). Your data should look like the map in figure 1. Have a look to the World Heritage Site "*Tasmanien Wilderness*". Use the data to get some information. 
 
 #### a) When was the designation of the "*Tasmanien Wilderness*"?
 #### b) How many hectars is covered by the "*Tasmanien Wilderness*"?
@@ -102,9 +102,12 @@ Explore the site [Abu Mena](http://whc.unesco.org/en/list/90/) in QGIS and onlin
 
 <br/>
 
+### Excersice 4
+
+
 ### Hier noch eine Aufgabe zum Tool "Count Points in Polygon" und Exportieren der Tabelle für den Vergleich =) ==> Um möglichst nah am Workflow zu bleiben. 
 
-### Excersice 4
+### Excersice 5
 Follow the steps in excersice 2 to install the [*cartogram3*](https://plugins.qgis.org/plugins/cartogram3/) plugin. Use the World Heritage in Danger file to calculate a cartogram. Generate a cartogram with the iterator 5, 10 and 15. 
 
 #### a) What's the advantages and challenges of the iterator?​
