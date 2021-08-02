@@ -57,7 +57,7 @@ The constantly increase of UNESCO designated sites can be shown very well on the
 
 
 ### Exercise 2 
-Now we are adding maps and satellite images to our project. Those can be used for orientation and simple analyses. This can be done by the large library of plugins which is offered by the [QGIS Plugin Repository](https://plugins.qgis.org/). The QGIS Plugin Manager enable us to install a Plugin directly in QGIS. [Watch this tutorial](https://www.youtube.com/watch?v=Qf0MPTzf6Ow) (1 min) and install the *QuickMapServices (QMS)* plugin. 
+Now we are adding maps and satellite images to our project. Those can be used for orientation and simple analyses. This can be done by the large library of plugins which is offered by the [QGIS Plugin Repository](https://plugins.qgis.org/). The QGIS Plugin Manager enable us to install a Plugin directly in QGIS. [Watch this tutorial](https://www.youtube.com/watch?v=MVMzDY2RqQU&list=PL3NiwHdo_mtBDWWwYqAoDVs8JvsqAiRDp&index=1) (1 min) and install the *QuickMapServices (QMS)* plugin. 
 
 <br/>
 
