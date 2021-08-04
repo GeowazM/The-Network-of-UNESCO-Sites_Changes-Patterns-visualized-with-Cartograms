@@ -21,7 +21,7 @@
 
 ### What to do
 1. Download the provided data & open in QGIS
-2. Install a useful plugin
+2. Install plugins
 3. Explore a World Heritage Site in Danger
 4. Analyse the distribution of World Heritage Sites in Danger worldwide
 
