@@ -46,8 +46,8 @@ The constantly increase of UNESCO designated sites can be shown very well on the
 ## Hands-on<br/>
 
 ### Exercise 1
-a) [Download](https://github.com/GeowazM/The-Network-of-UNESCO-Sites-Changes-and-Patterns-visualized-with-Cartograms/blob/main/data/Download_data_Network-of-UNESCO-Sites_HIS-GIS.zip) the data and open all files in QGIS. 
-b) Take care about the project [coordinate reference system (CRS)](https://www.worldatlas.com/geography/world-map-robinson-projection.html). Set a equal-area projection, i.e. [World Robinson](http://epsg.io/54030) (EPSI: 54030). 
+a) [Download](https://github.com/GeowazM/The-Network-of-UNESCO-Sites-Changes-and-Patterns-visualized-with-Cartograms/blob/main/data/Download_data_Network-of-UNESCO-Sites_HIS-GIS.zip) the data and open all files in QGIS. You can find a [quick tutorial here](https://www.youtube.com/watch?v=DApNlu2-dp4) (1 min) <br>
+b) Take care about the project [coordinate reference system (CRS)](https://www.worldatlas.com/geography/world-map-robinson-projection.html). Set a equal-area projection, i.e. [World Robinson](http://epsg.io/54030) (EPSI: 54030). <br>
 c) Your data should look like the map in figure 1. Have a look to the World Heritage Site "*Tasmanien Wilderness*". Have a look into the attribute table. 
 
 #### I. When was the designation of the "*Tasmanian Wilderness*"?
@@ -58,7 +58,7 @@ c) Your data should look like the map in figure 1. Have a look to the World Heri
 
 
 ### Exercise 2 
-Now we are adding maps and satellite images to our project. Those can be used for orientation and simple analyses. This can be done by the large library of plugins which is offered by the [QGIS Plugin Repository](https://plugins.qgis.org/). 
+Now we are adding maps and satellite images to our project. Those can be used for orientation and simple analyses. This can be done by the large library of plugins which is offered by the [QGIS Plugin Repository](https://plugins.qgis.org/). <br>
 a) The QGIS Plugin Manager enable us to install a Plugin directly in QGIS. [Watch this tutorial](https://www.youtube.com/watch?v=MVMzDY2RqQU&list=PL3NiwHdo_mtBDWWwYqAoDVs8JvsqAiRDp&index=1) (1 min) and install the *QuickMapServices (QMS)* plugin. 
 
 <br/>
@@ -105,9 +105,9 @@ Explore the site [Abu Mena](http://whc.unesco.org/en/list/90/) in QGIS and onlin
 <br/>
 
 ### Excersice 4
-Now we need to know how many UNESCO sites in danger are within each UN subregion. 
-a) Therefore, open the downloaded "*UN_subregions_with_UNESCO_sites.geojson*" file in QGIS. 
-b) Check if every point is in a UN subregion. 
+Now we need to know how many UNESCO sites in danger are within each UN subregion. <br>
+a) Therefore, open the downloaded "*UN_subregions_with_UNESCO_sites.geojson*" file in QGIS. <br>
+b) Check if every point is in a UN subregion. <br>
 c) Then we add the number of UNESCO sites in danger (point features) to the UN subregions (polygon features) with the "*Count points in polygon*" algorithm. 
 
 #### I. Open Processing Toolbox
@@ -131,7 +131,7 @@ Now you can use the csv file to create graphs i.e. in excel to support the visua
 <br/>
 
 ### Exercise 5
-a) Follow the steps in Exercise 2 to install the [*cartogram3*](https://plugins.qgis.org/plugins/cartogram3/) plugin. 
+a) Follow the steps in Exercise 2 to install the [*cartogram3*](https://plugins.qgis.org/plugins/cartogram3/) plugin. <br>
 b) Use the World Heritage in Danger file to calculate a cartogram. Generate a cartogram with the iterator 5, 10 and 15. 
 
 #### I. What's the advantages and challenges of the iterator?​
