@@ -132,7 +132,8 @@ Now you can use the csv file to create graphs i.e. in excel to support the visua
 
 ### Exercise 5
 a) Follow the steps in Exercise 2 to install the [*cartogram3*](https://plugins.qgis.org/plugins/cartogram3/) plugin. <br>
-b) Use the World Heritage in Danger file to calculate a cartogram. Generate a cartogram with the iterator 5, 10 and 15. 
+b) Use the World Heritage in Danger file to calculate a cartogram. Generate a cartogram with the iterator 10, 25 and 40. 
+###### Hint: Use the *land_mass_basemap.shp* file to compare the extent to the normal map.
 
 #### I. What's the advantages and challenges of the iterator?​
 #### II. Which continent show the most World Heritage in danger? 
