@@ -142,7 +142,7 @@ b) Use the World Heritage in Danger file to calculate a cartogram. Generate a ca
 <br/>
 
 <p align="center">
-  <img src="/images/cartogram_World-Heritage-Sites_2011-2021_small.png" width="800" alt="Cartogram of the World Heritage Site designated sites between 2010 and 2021 (cartography: Mario Blersch, data: )"/>
+  <img src="/images/world-heritage-sites-in-danger_cartogram.png" width="800" alt="Cartogram of the World Heritage Site in Danger (cartography: Mario Blersch, data: Copyright©1992-2021 UNESCO/World Heritage Centre. All rights reserved)"/>
 </p>
   
 ###### <div align="center">  Figure 3: Cartogram of the World Heritage Site designated sites between 2010 and 2021 </div>
