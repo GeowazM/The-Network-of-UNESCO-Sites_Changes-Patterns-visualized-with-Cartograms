@@ -46,7 +46,7 @@ The constantly increase of UNESCO designated sites can be shown very well on the
 ## Hands-on<br/>
 
 ### Exercise 1
-a) [Download](https://github.com/GeowazM/The-Network-of-UNESCO-Sites-Changes-and-Patterns-visualized-with-Cartograms/blob/main/data/Download_data_Network-of-UNESCO-Sites_HIS-GIS.zip) the data and open all files in QGIS. You can find a [quick tutorial here](https://www.youtube.com/watch?v=DApNlu2-dp4) (1 min) <br>
+a) [Download](https://github.com/GeowazM/The-Network-of-UNESCO-Sites-Changes-and-Patterns-visualized-with-Cartograms/blob/main/data/Download_data_Network-of-UNESCO-Sites_HIS-GIS.zip) the data and open all files in QGIS. You can find a [quick tutorial here](https://www.youtube.com/watch?v=DApNlu2-dp4) (1 min). <br>
 b) Take care about the project [coordinate reference system (CRS)](https://www.worldatlas.com/geography/world-map-robinson-projection.html). Set a equal-area projection, i.e. [World Robinson](http://epsg.io/54030) (EPSI: 54030). <br>
 c) Your data should look like the map in figure 1. Have a look to the World Heritage Site "*Tasmanien Wilderness*". Have a look into the attribute table. 
 
@@ -106,9 +106,9 @@ Explore the site [Abu Mena](http://whc.unesco.org/en/list/90/) in QGIS and onlin
 
 ### Excersice 4
 Now we need to know how many UNESCO sites in danger are within each UN subregion. <br>
-a) Therefore, open the downloaded "*UN_subregions_with_UNESCO_sites.geojson*" file in QGIS. <br>
-b) Check if every point is in a UN subregion. <br>
-c) Then we add the number of UNESCO sites in danger (point features) to the UN subregions (polygon features) with the "*Count points in polygon*" algorithm. 
+a) Therefore, open the downloaded "*UNESCO_world-heritage-in-danger.shp*" file in QGIS. <br>
+b) Check if every point is in a UN subregion. Compare these points with the points of the *UNESCO_world-heritage-in-danger_analysis-ready.shp* file.
+c) Then we add the number of UNESCO sites in danger (point features) to the UN subregions (polygon features) with the "*Count points in polygon*" algorithm. Use the *UNESCO_world-heritage-in-danger_analysis-ready.shp file*.
 
 #### I. Open Processing Toolbox
 >    *Processing* <br>
