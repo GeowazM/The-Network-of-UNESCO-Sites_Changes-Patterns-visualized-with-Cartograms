@@ -58,12 +58,13 @@ c) Your data should look like the map in figure 1. Have a look to the World Heri
 
 
 ### Exercise 2 
-Now we are adding maps and satellite images to our project. Those can be used for orientation and simple analyses. This can be done by the large library of plugins which is offered by the [QGIS Plugin Repository](https://plugins.qgis.org/). The QGIS Plugin Manager enable us to install a Plugin directly in QGIS. [Watch this tutorial](https://www.youtube.com/watch?v=MVMzDY2RqQU&list=PL3NiwHdo_mtBDWWwYqAoDVs8JvsqAiRDp&index=1) (1 min) and install the *QuickMapServices (QMS)* plugin. 
+Now we are adding maps and satellite images to our project. Those can be used for orientation and simple analyses. This can be done by the large library of plugins which is offered by the [QGIS Plugin Repository](https://plugins.qgis.org/). 
+a) The QGIS Plugin Manager enable us to install a Plugin directly in QGIS. [Watch this tutorial](https://www.youtube.com/watch?v=MVMzDY2RqQU&list=PL3NiwHdo_mtBDWWwYqAoDVs8JvsqAiRDp&index=1) (1 min) and install the *QuickMapServices (QMS)* plugin. 
 
 <br/>
 
 
-* Now add the [**OSM Standard**](https://www.openstreetmap.org/about) layer
+b) * Now add the [**OSM Standard**](https://www.openstreetmap.org/about) layer
 
 
 To add satellite imagery via the "Bing Satellite Layer", we must extend the plugin by adding a contribution pack via <br>
@@ -75,7 +76,7 @@ To add satellite imagery via the "Bing Satellite Layer", we must extend the plug
 
 <br/>
 
-* Now you can add the [**Bing Satellite**](https://www.arcgis.com/home/item.html?id=ae8ed793f2fb4ab0be1b7638082e95b5#:~:text=The%20Bing%20Maps%20aerial%20imagery,orthographic%20aerial%20and%20satellite%20imagery.&text=Bing%20Maps%20is%20continuously%20adding,not%20include%20bird's%20eye%20imagery) layer
+c) * Now you can add the [**Bing Satellite**](https://www.arcgis.com/home/item.html?id=ae8ed793f2fb4ab0be1b7638082e95b5#:~:text=The%20Bing%20Maps%20aerial%20imagery,orthographic%20aerial%20and%20satellite%20imagery.&text=Bing%20Maps%20is%20continuously%20adding,not%20include%20bird's%20eye%20imagery) layer
 
 <br/>
 
@@ -104,14 +105,17 @@ Explore the site [Abu Mena](http://whc.unesco.org/en/list/90/) in QGIS and onlin
 <br/>
 
 ### Excersice 4
-Now we need to know how many UNESCO sites in danger are within each UN subregion. Therefore, open the downloaded "*UN_subregions_with_UNESCO_sites.geojson*" file in QGIS. Check if every point is in a UN subregion. Than we add the number of UNESCO sites in danger (point features) to the UN subregions (polygon features) with the "*Count points in polygon*" algorithm. 
+Now we need to know how many UNESCO sites in danger are within each UN subregion. 
+a) Therefore, open the downloaded "*UN_subregions_with_UNESCO_sites.geojson*" file in QGIS. 
+b) Check if every point is in a UN subregion. 
+c) Then we add the number of UNESCO sites in danger (point features) to the UN subregions (polygon features) with the "*Count points in polygon*" algorithm. 
 
-#### a) Open Processing Toolbox
+#### I. Open Processing Toolbox
 >    *Processing* <br>
 >>   *Toolbox* <br>
-#### b) Search the "*Count points in polygon*" algorithm
-#### c) Run the "*Count points in polygon*" algorithm
-#### d) Export the file as csv format
+#### II. Search the "*Count points in polygon*" algorithm
+#### III. Run the "*Count points in polygon*" algorithm
+#### IV. Export the file as csv format
 >    *Layer (right-click)* <br>
 >>   *Export* <br>
 >>>  *Save Features As...*  <br>
@@ -122,16 +126,17 @@ Now you can use the csv file to create graphs i.e. in excel to support the visua
 
 <br/>
 
-#### e) Which UN subregion show 15 World Heritage Sites in Danger?
+#### V. Which UN subregion show 15 World Heritage Sites in Danger?
 
 <br/>
 
 ### Exercise 5
-Follow the steps in Exercise 2 to install the [*cartogram3*](https://plugins.qgis.org/plugins/cartogram3/) plugin. Use the World Heritage in Danger file to calculate a cartogram. Generate a cartogram with the iterator 5, 10 and 15. 
+a) Follow the steps in Exercise 2 to install the [*cartogram3*](https://plugins.qgis.org/plugins/cartogram3/) plugin. 
+b) Use the World Heritage in Danger file to calculate a cartogram. Generate a cartogram with the iterator 5, 10 and 15. 
 
-#### a) What's the advantages and challenges of the iterator?​
-#### b) Which continent show the most World Heritage in danger? 
-#### c) What's the difference to the World Heritage cartogram below?
+#### I. What's the advantages and challenges of the iterator?​
+#### II. Which continent show the most World Heritage in danger? 
+#### III. What's the difference to the World Heritage cartogram below?
 
 <br/>
 
