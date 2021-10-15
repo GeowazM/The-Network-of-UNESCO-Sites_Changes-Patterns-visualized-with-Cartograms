@@ -46,7 +46,7 @@ The constantly increase of UNESCO designated sites can be shown very well on the
 ## Hands-on<br/>
 
 ### Exercise 1
-a) [Download](https://github.com/GeowazM/The-Network-of-UNESCO-Sites-Changes-and-Patterns-visualized-with-Cartograms/blob/main/data/Download_data_Network-of-UNESCO-Sites_HIS-GIS.zip) the data and open all files in QGIS. You can find a [quick tutorial here](https://www.youtube.com/watch?v=DApNlu2-dp4) (1 min). <br>
+a) [Download](https://github.com/GeowazM/The-Network-of-UNESCO-Sites_Changes-Patterns-visualized-with-Cartograms/blob/main/data/Download-Data_UNESCO_World-Heritage_Sites-in-Danger_HIS-GIS.zip) the data and open all files in QGIS. You can find a [quick tutorial here](https://www.youtube.com/watch?v=DApNlu2-dp4) (1 min). <br>
 b) Take care about the project [coordinate reference system (CRS)](https://www.worldatlas.com/geography/world-map-robinson-projection.html). Set a equal-area projection, i.e. [World Robinson](http://epsg.io/54030) (EPSI: 54030). <br>
 c) Find the World Heritage Site "*Tasmanien Wilderness*". Have a look into the attribute table. 
 
