@@ -48,10 +48,10 @@ The constantly increase of UNESCO designated sites can be shown very well on the
 ### Exercise 1
 a) [Download](https://github.com/GeowazM/The-Network-of-UNESCO-Sites_Changes-Patterns-visualized-with-Cartograms/blob/main/data/Download-Data_UNESCO_World-Heritage_Sites-in-Danger_HIS-GIS.zip) the data and open all files in QGIS. You can find a [quick tutorial here](https://www.youtube.com/watch?v=DApNlu2-dp4) (1 min). <br>
 b) Take care about the project [coordinate reference system (CRS)](https://www.worldatlas.com/geography/world-map-robinson-projection.html). Set a equal-area projection, i.e. [World Robinson](http://epsg.io/54030) (EPSI: 54030). <br>
-c) Find the World Heritage Site "*Tasmanien Wilderness*". Have a look into the attribute table. 
+c) Find the World Heritage Site "*Historic Centre of Vienna*". Have a look into the attribute table. 
 
-#### I. When was the designation of the "*Tasmanian Wilderness*"?
-#### II. How many hectares is covered by the "*Tasmanian Wilderness*"?
+#### I. When was the designation of the "*Historic Centre of Vienna*"?
+#### II. How is the great age of the"*THistoric Centre of Vienna*" called?
 
 
 <br/>
